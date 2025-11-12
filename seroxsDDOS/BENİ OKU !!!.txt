@@ -1,0 +1,34 @@
+BENİ OKU !!!
+
+seroxsDDOS 
+
+UYARI!
+  
+merhaba ben seroxsDDOS'un yapımcısıyım ılk once bır sıteye 100 ıstek veya üstü istek göndermeğe DDoS denilir. DDos göndermek yasa dışı ve suçtur eger kendi sitenıiz dışında bir siteye DDoS atarsanız ve sıte sızı bulup şikayet ederse para cezası alabilirsiniz.
+
+SİSTEM BİLGİ
+
+sistem size DDoS atmanız için bir komut yükleyecek bu sadece bir kere olacak. Ve en fazla 5000 istek yollayabilirsiniz üstü sitenin direkt AĞ TRAFİĞİNDE  boğulmasına neden olabilir. Ve sistemdeki bir doğrulama vardır oda 
+
+
+ DİKKAT: Bu aracı SADECE sahibi/izinli olduğun sitelerde kullan.
+Eğer site SENİNSE ve devam etmek istiyorsan lütfen tam olarak yaz: I_OWN_THIS_SITE 
+
+evet burası kullanıcıların takıldığı yer burada yapmanız gereken sadece I_OWN_THIS_SITE kopyala yapıştır yapmanız yanı doğrulama bıle değil.
+
+ 
+ANALİZ VE ANLAMA
+
+burada her istek attığınızda eğer gerçekten istek engellenemeyip siteye istek yollanırsa 200 sayısını alırsınız ÖRNEK:  (200 — 833842 bytes — 30161.0) bu size başarı ile gönderildiğini açıklar. eğer başarısızsa 404 alırsınız ÖRNEK: (404 — 833842 bytes — 30161.0) alırsınız bu size site bunları engelledi veya cloudfare tarafından korundu demektir bu siteye DDoS gönderilmez.
+
+DDOS ANLAMA VE NE OLDUGUNU DAHA İYİ ANLAMAK İÇİN VİDEO LİNK
+
+https://youtu.be/p9wNokcHW9E can değerden izleyebilirsin daah iyi anlamanıza destek olur :D
+
+
+SAYGILARLA...
+
+https://github.com/serobabaa  
+
+ 
+
